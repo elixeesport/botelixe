@@ -1,7 +1,10 @@
 {
-  "name": "Elixe BOT",
+  "name": "elixebot",
   "version": "1.6.0",
   "description": "",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -20,7 +23,6 @@
     "humanize-duration": "^3.25.1",
     "jsdom": "^16.4.0",
     "moment": "^2.29.1",
-    "node.js": "^0.0.1-security",
     "opusscript": "0.0.8",
     "parse-duration": "^1.0.0",
     "quick.db": "^7.1.3",
